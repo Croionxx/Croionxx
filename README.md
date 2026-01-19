@@ -15,7 +15,7 @@
 ┌────────────────────────────────────────────────────────────────────────┐
 │  SYSTEM STATUS : ONLINE                                                │
 ├────────────────────────────────────────────────────────────────────────┤
-│  OPERATOR      : Puneeth Shetty                                        │
+│  OPERATOR      : Puneeth Shetty (Croionxx)                             │
 │  MODE          : Dual-Degree Engineering                               │
 │  AFFILIATION   : NIT Calicut (Mech) / IIT Madras (Electronic Systems)  │
 │  TEAM          : Team Unwired (Formula Student)                        │
@@ -52,7 +52,7 @@ I operate at the hard limit between **Mechanical Design** and **Embedded Electro
 
 ---
 
-### 📂 RECENT PROTOCOLS (Projects)
+### 📂 RECENT PROTOCOLS
 
 * **🏎️ Formula Student Chassis:** Designing and simulating tubular spaceframes for *Team Unwired*.
 * **🕒 VAF-Clock:** Reverse-engineered a commercial VAF meter to function as a digital clock using ESP32.
@@ -61,15 +61,15 @@ I operate at the hard limit between **Mechanical Design** and **Embedded Electro
 
 ---
 
-### 📊 TELEMETRY (GitHub Stats)
+### 📊 TELEMETRY
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PuneethShetty&theme=react&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PuneethShetty&theme=react&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Croionxx&theme=react&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Croionxx&theme=react&hide_border=true" height="150" alt="streak graph" />
 </div>
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuneethShetty&layout=compact&theme=react&hide_border=true" height="140" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Croionxx&layout=compact&theme=react&hide_border=true" height="140" alt="languages graph" />
 </div>
 
 ---
@@ -80,11 +80,11 @@ I operate at the hard limit between **Mechanical Design** and **Embedded Electro
   <a href="https://linkedin.com/in/puneethds">
     <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:drive.alpha.puneeth@gmail.com">
+  <a href="mailto:alpha.puneeth@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-Transimit_Data-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=PuneethShetty&icon=5&color=2" />
+  <img src="https://komarev.com/ghpvc/?username=Croionxx&style=flat-square&label=VISITORS&color=ff69b4" alt="Visitors" />
 </p>
