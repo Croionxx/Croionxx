@@ -89,9 +89,7 @@ I operate at the hard limit between <b>Mechanical Design</b> and <b>Embedded Ele
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" height="35" /> TELEMETRY
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Croionxx&bg_color=0d1117&title_color=E0CFDE&text_color=c9d1d9&icon_color=979883&border_color=979883&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Croionxx&bg_color=0d1117&ring=E0CFDE&currStreakNum=E0CFDE&currStreakLabel=979883&sideNums=c9d1d9&sideLabels=c9d1d9&fire=E0CFDE&border_color=979883&hide_border=true" height="150" alt="streak graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Croionxx&bg_color=0d1117&color=c9d1d9&line=E0CFDE&point=E0CFDE&area=true&area_color=979883&hide_border=true&custom_title=Activity%20Graph" alt="Activity Graph" />
 </div>
 <div align="center">
   <br>
