@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="bannerrrrr.jpg" width="100%" alt="Retro Engineering Lab Banner"/>
+  <img src="banner.png" width="100%" alt="Retro Engineering Lab Banner"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&duration=3500&pause=500&color=FFB000&center=true&vCenter=true&width=700&lines=INITIALIZING+WORKSTATION...;MECHANICAL+%2B+ELECTRONIC+SYSTEMS;CHASSIS+DESIGN+%7C+AVIONICS+%7C+REVERSE+ENGINEERING;STATUS:+ONLINE." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=700&lines=SYSTEM+FAILURE...;ERR_CODE_404...;REROUTING+POWER...;SYSTEM+INTEGRITY:+100%25;STATUS:+ONLINE." alt="Glitch Boot" />
   </a>
 </div>
 
@@ -37,14 +37,7 @@ I operate at the hard limit between **Mechanical Design** and **Embedded Electro
 
 ---
 
-### ⚡ LIVE OSCILLOSCOPE
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=0&color=39FF14&center=true&vCenter=true&width=600&lines=_+_+_+_+_+_+_+_+_+_+_+_+_+;+_+_+_/-^+^-\_+_+_/-^+^-\_+;_+_/-^+^-\_+_+_/-^+^-\_+_;_/-^+^-\_+_+_/-^+^-\_+_+_" alt="Oscilloscope Animation" />
-</div>
-
----
-
-### 🛠 TOOLCHAIN
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0/512.gif" width="30" height="30"> TOOLCHAIN
 
 | **EMBEDDED / FIRMWARE** | **DESIGN / SIMULATION** | **SYSTEMS / OS** |
 |:---:|:---:|:---:|
@@ -52,19 +45,49 @@ I operate at the hard limit between **Mechanical Design** and **Embedded Electro
 
 ---
 
-### 📂 RECENT PROTOCOLS
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="30" height="30"> PROJECT GALLERY
 
-* **🏎️ Formula Student Chassis:** Designing and simulating tubular spaceframes for *Team Unwired*.
-* **🕒 VAF-Clock:** Reverse-engineered a commercial VAF meter to function as a digital clock using ESP32.
-* **☀️ Solar Tracking:** Developed a passive dual-axis tracker using SMA (Shape Memory Alloy) actuators.
-* **🚀 Propulsion:** Researching KNSB solid rocket motor ballistics and casing optimization.
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <b>🏎️ Formula Student Chassis</b><br>
+      <br>
+      <img src="https://placehold.co/600x300/101010/FFF?text=Upload+Chassis+Photo" alt="Chassis">
+      <br><br>
+      Designing and simulating tubular spaceframes for <i>Team Unwired</i>. Focus on torsional rigidity and crash safety analysis in ANSYS.
+    </td>
+    <td width="50%" align="center">
+      <b>🕒 VAF-Clock Reverse Eng</b><br>
+      <br>
+      <img src="https://placehold.co/600x300/101010/FFF?text=Upload+Clock+Photo" alt="Clock">
+      <br><br>
+      Reverse-engineered a commercial VAF meter to function as a digital clock using ESP32. Custom PCB and 7-segment driver logic.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <b>☀️ Shape Memory Solar Tracker</b><br>
+      <br>
+      <img src="https://placehold.co/600x300/101010/FFF?text=Upload+Tracker+Photo" alt="Solar">
+      <br><br>
+      Passive dual-axis tracker using SMA (Nitinol) actuators. No motors, purely thermal-mechanical actuation logic.
+    </td>
+    <td width="50%" align="center">
+      <b>🚀 KNSB Propulsion</b><br>
+      <br>
+      <img src="https://placehold.co/600x300/101010/FFF?text=Upload+Rocket+Photo" alt="Rocket">
+      <br><br>
+      Solid rocket motor research using Sugar propellant (KNSB). Grain geometry optimization and casing burst pressure testing.
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 TELEMETRY
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" width="30" height="30"> TELEMETRY
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Croionxx&theme=react&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Croionxx&theme=react&hide_border=true&count_private=true" height="150" alt="stats graph" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Croionxx&theme=react&hide_border=true" height="150" alt="streak graph" />
 </div>
 <div align="center">
@@ -74,7 +97,7 @@ I operate at the hard limit between **Mechanical Design** and **Embedded Electro
 
 ---
 
-### 📟 COMM LINK
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e1/512.gif" width="30" height="30"> COMM LINK
 
 <div align="center">
   <a href="https://linkedin.com/in/puneethds">
@@ -88,3 +111,7 @@ I operate at the hard limit between **Mechanical Design** and **Embedded Electro
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Croionxx&style=flat-square&label=VISITORS&color=ff69b4" alt="Visitors" />
 </p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/master/wave.svg" width="100%" alt="Wavy Footer">
+</div>
