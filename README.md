@@ -1,104 +1,90 @@
-<p align="center">
+<div align="center">
   <img src="bannerrrrr.jpg" width="100%" alt="Retro Engineering Lab Banner"/>
-</p>
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&duration=3500&pause=500&color=FFB000&center=true&vCenter=true&width=700&lines=INITIALIZING+WORKSTATION...;MECHANICAL+%2B+ELECTRONIC+SYSTEMS;CHASSIS+DESIGN+%7C+AVIONICS+%7C+REVERSE+ENGINEERING;STATUS:+ONLINE." alt="Typing SVG" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+<pre>
+┌────────────────────────────────────────────────────────────────────────┐
+│  SYSTEM STATUS : ONLINE                                                │
+├────────────────────────────────────────────────────────────────────────┤
+│  OPERATOR      : Puneeth Shetty                                        │
+│  MODE          : Dual-Degree Engineering                               │
+│  AFFILIATION   : NIT Calicut (Mech) / IIT Madras (Electronic Systems)  │
+│  TEAM          : Team Unwired (Formula Student)                        │
+│  CURRENT FOCUS : Hardware-in-the-Loop & Embedded Systems               │
+│  UPTIME        : ∞                                                     │
+└────────────────────────────────────────────────────────────────────────┘
+</pre>
+</div>
+
+---
+
+### ⧉ MISSION PROFILE
+
+I operate at the hard limit between **Mechanical Design** and **Embedded Electronics**. I don't just design the chassis; I wire the sensors that monitor it.
+
+* **Philosophy:** Hardware does not lie. Simulations must earn trust.
+* **Specialty:** Designing constraints-driven systems, from **Formula Student race cars** to **Solid Rocket Motors**.
+* **Method:** Bench-test reality → Reverse engineer anomalies → Iterate.
+
+---
+
+### ⚡ LIVE OSCILLOSCOPE
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=0&color=39FF14&center=true&vCenter=true&width=600&lines=_+_+_+_+_+_+_+_+_+_+_+_+_+;+_+_+_/-^+^-\_+_+_/-^+^-\_+;_+_/-^+^-\_+_+_/-^+^-\_+_;_/-^+^-\_+_+_/-^+^-\_+_+_" alt="Oscilloscope Animation" />
+</div>
+
+---
+
+### 🛠 TOOLCHAIN
+
+| **EMBEDDED / FIRMWARE** | **DESIGN / SIMULATION** | **SYSTEMS / OS** |
+|:---:|:---:|:---:|
+| ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) <br> ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br> ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) | ![ANSYS](https://img.shields.io/badge/ANSYS-FFB900?style=for-the-badge&logo=ansys&logoColor=black) <br> ![SolidWorks](https://img.shields.io/badge/SolidWorks-D32F2F?style=for-the-badge&logo=dassaultsystemes&logoColor=white) <br> ![KiCad](https://img.shields.io/badge/KiCad-31468B?style=for-the-badge&logo=kicad&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) <br> ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white) |
+
+---
+
+### 📂 RECENT PROTOCOLS (Projects)
+
+* **🏎️ Formula Student Chassis:** Designing and simulating tubular spaceframes for *Team Unwired*.
+* **🕒 VAF-Clock:** Reverse-engineered a commercial VAF meter to function as a digital clock using ESP32.
+* **☀️ Solar Tracking:** Developed a passive dual-axis tracker using SMA (Shape Memory Alloy) actuators.
+* **🚀 Propulsion:** Researching KNSB solid rocket motor ballistics and casing optimization.
+
+---
+
+### 📊 TELEMETRY (GitHub Stats)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PuneethShetty&theme=react&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PuneethShetty&theme=react&hide_border=true" height="150" alt="streak graph" />
+</div>
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuneethShetty&layout=compact&theme=react&hide_border=true" height="140" alt="languages graph" />
+</div>
+
+---
+
+### 📟 COMM LINK
+
+<div align="center">
+  <a href="https://linkedin.com/in/puneethds">
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:drive.alpha.puneeth@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-Transimit_Data-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=26&duration=4000&pause=1000&color=FFB000&center=true&vCenter=true&width=700&lines=BOOTING+ENGINEERING+WORKSTATION...;MECHANICAL+%2B+ELECTRONIC+SYSTEMS;EMBEDDED+HARDWARE+%7C+SIMULATION+%7C+REVERSE+ENGINEERING;READY." />
-</p>
-
----
-
-<pre>
-┌──────────────────────────────────────────────┐
-│ SYSTEM STATUS                                │
-├──────────────────────────────────────────────┤
-│ USER        : Puneeth Shetty                 │
-│ MODE        : Dual-Degree Engineering        │
-│ LOCATION    : NIT Calicut / IIT Madras       │
-│ FOCUS       : Hardware-first systems         │
-│ UPTIME      : ∞                              │
-└──────────────────────────────────────────────┘
-</pre>
-
----
-
-## ABOUT
-
-I work at the intersection of **mechanical design and electronic systems**, with an emphasis on  
-**embedded hardware, simulation-validated engineering, and reverse engineering**.
-
-I prefer **bench-tested reality over abstractions**, and systems where constraints are physical,  
-timing is unforgiving, and iteration is unavoidable.
-
----
-
-## CURRENT OPERATIONS
-
-- Embedded systems on ESP32 (low-level drivers, timing-critical IO)
-- Structural & crash simulations (ANSYS Explicit Dynamics)
-- Reverse engineering of commercial hardware
-- Design-for-manufacturing with tight tolerances
-
----
-
-## LAB OSCILLOSCOPE (LIVE)
-
-<pre>
-Voltage
-  ^
-  |        _        _        _
-  |       / \      / \      / \
-  |______/   \____/   \____/   \____  → time
-</pre>
-
----
-
-## TOOLCHAIN
-
-**EMBEDDED / PROGRAMMING**
-  
-![C](https://img.shields.io/badge/C-1A1A1A?style=for-the-badge&logo=c&logoColor=FFB000)
-![C++](https://img.shields.io/badge/C++-1A1A1A?style=for-the-badge&logo=c%2B%2B&logoColor=FFB000)
-![ESP32](https://img.shields.io/badge/ESP32-1A1A1A?style=for-the-badge&logo=espressif&logoColor=FF2D20)
-
-**DESIGN / SIMULATION**
-  
-![ANSYS](https://img.shields.io/badge/ANSYS-0B0B0B?style=for-the-badge&logo=ansys&logoColor=FFD400)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-2A0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-0D1B2A?style=for-the-badge&logo=kicad&logoColor=white)
-
-**SYSTEMS**
-  
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FACC15)
-![Git](https://img.shields.io/badge/Git-1F0A00?style=for-the-badge&logo=git&logoColor=F05032)
-
----
-
-## ACTIVITY MONITOR
-
-![](https://github-readme-stats.vercel.app/api?username=PuneethShetty&theme=tokyonight&hide_border=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=PuneethShetty&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PuneethShetty&layout=compact&theme=tokyonight)
-
----
-
-## ENGINEERING ETHOS
-
-<pre>
-"Hardware does not lie.
-Simulations must earn trust.
-Failure is a diagnostic tool."
-</pre>
-
----
-
-## CONTACT TERMINAL
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A2540?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/puneethds)
-[![Email](https://img.shields.io/badge/Email-3A0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drive.alpha.puneeth@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=PuneethShetty&icon=0&color=10" />
+  <img src="https://visitcount.itsvg.in/api?id=PuneethShetty&icon=5&color=2" />
 </p>
