@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=700&lines=SYSTEM+FAILURE...;ERR_CODE_404...;REROUTING+POWER...;SYSTEM+INTEGRITY:+100%25;STATUS:+ONLINE." alt="Glitch Boot" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&duration=3000&pause=500&color=E0CFDE&center=true&vCenter=true&width=700&lines=SYSTEM+FAILURE...;ERR_CODE_404...;REROUTING+POWER...;SYSTEM+INTEGRITY:+100%25;STATUS:+ONLINE." alt="Glitch Boot" />
   </a>
 </div>
 
@@ -15,7 +15,7 @@
 ┌────────────────────────────────────────────────────────────────────────┐
 │  SYSTEM STATUS : ONLINE                                                │
 ├────────────────────────────────────────────────────────────────────────┤
-│  OPERATOR      : Puneeth Shetty (Croionxx)                             │
+│  OPERATOR      : Puneeth Shetty (Master_Procrastinator)                │
 │  MODE          : Dual-Degree Engineering                               │
 │  AFFILIATION   : NIT Calicut (Mech) / IIT Madras (Electronic Systems)  │
 │  TEAM          : Team Unwired (Formula Student)                        │
@@ -27,17 +27,19 @@
 
 ---
 
-### ⧉ MISSION PROFILE
-
-I operate at the hard limit between **Mechanical Design** and **Embedded Electronics**. I don't just design the chassis; I wire the sensors that monitor it.
+<details>
+<summary><h3>⧉ MISSION PROFILE (Click to Expand)</h3></summary>
+<br>
+I operate at the hard limit between <b>Mechanical Design</b> and <b>Embedded Electronics</b>. I don't just design the chassis; I wire the sensors that monitor it.
 
 * **Philosophy:** Hardware does not lie. Simulations must earn trust.
 * **Specialty:** Designing constraints-driven systems, from **Formula Student race cars** to **Solid Rocket Motors**.
 * **Method:** Bench-test reality → Reverse engineer anomalies → Iterate.
+</details>
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0/512.gif" width="30" height="30"> TOOLCHAIN
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="35" height="35" /> TOOLCHAIN
 
 | **EMBEDDED / FIRMWARE** | **DESIGN / SIMULATION** | **SYSTEMS / OS** |
 |:---:|:---:|:---:|
@@ -45,7 +47,7 @@ I operate at the hard limit between **Mechanical Design** and **Embedded Electro
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="30" height="30"> PROJECT GALLERY
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> PROJECT GALLERY
 
 <table border="0">
   <tr>
@@ -84,20 +86,21 @@ I operate at the hard limit between **Mechanical Design** and **Embedded Electro
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" width="30" height="30"> TELEMETRY
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" height="35" /> TELEMETRY
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Croionxx&theme=react&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Croionxx&theme=react&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Croionxx&bg_color=0d1117&title_color=E0CFDE&text_color=c9d1d9&icon_color=979883&border_color=979883&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Croionxx&bg_color=0d1117&ring=E0CFDE&currStreakNum=E0CFDE&currStreakLabel=979883&sideNums=c9d1d9&sideLabels=c9d1d9&fire=E0CFDE&border_color=979883&hide_border=true" height="150" alt="streak graph" />
 </div>
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Croionxx&layout=compact&theme=react&hide_border=true" height="140" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Croionxx&layout=compact&bg_color=0d1117&title_color=E0CFDE&text_color=c9d1d9&icon_color=979883&border_color=979883&hide_border=true" height="140" alt="languages graph" />
 </div>
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e1/512.gif" width="30" height="30"> COMM LINK
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="Satellite" width="35" height="35" /> COMM LINK
 
 <div align="center">
   <a href="https://linkedin.com/in/puneethds">
@@ -106,12 +109,9 @@ I operate at the hard limit between **Mechanical Design** and **Embedded Electro
   <a href="mailto:alpha.puneeth@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-Transimit_Data-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a align="center">
+  <img src="https://komarev.com/ghpvc/?username=Croionxx&style=flat-square&label=VISITORS&color=E0CFDE" alt="Visitors" />
+  </a>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Croionxx&style=flat-square&label=VISITORS&color=ff69b4" alt="Visitors" />
-</p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/master/wave.svg" width="100%" alt="Wavy Footer">
-</div>
+<img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=E0CFDE&height=100&section=footer" width="100%">
