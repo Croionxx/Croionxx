@@ -54,14 +54,14 @@ I operate at the hard limit between <b>Mechanical Design</b> and <b>Embedded Ele
     <td width="50%" align="center">
       <b>🏎️ Formula Student Chassis</b><br>
       <br>
-      <img src="https://placehold.co/600x300/101010/FFF?text=Upload+Chassis+Photo" alt="Chassis">
+      <img src="chasis-crash.png" alt="Chassis">
       <br><br>
       Designing and simulating tubular spaceframes for <i>Team Unwired</i>. Focus on torsional rigidity and crash safety analysis in ANSYS.
     </td>
     <td width="50%" align="center">
       <b>🕒 VAF-Clock Reverse Eng</b><br>
       <br>
-      <img src="https://placehold.co/600x300/101010/FFF?text=Upload+Clock+Photo" alt="Clock">
+      <img src="VAF-clock.png" alt="Clock">
       <br><br>
       Reverse-engineered a commercial VAF meter to function as a digital clock using ESP32. Custom PCB and 7-segment driver logic.
     </td>
