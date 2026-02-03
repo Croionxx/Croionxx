@@ -77,7 +77,7 @@ I operate at the hard limit between <b>Mechanical Design</b> and <b>Embedded Ele
     <td width="50%" align="center">
       <b>🚀 KNSB Propulsion</b><br>
       <br>
-      <img src="https://placehold.co/600x300/101010/FFF?text=Upload+Rocket+Photo" alt="Rocket">
+      <img src="rocket.png" alt="Rocket">
       <br><br>
       Solid rocket motor research using Sugar propellant (KNSB). Grain geometry optimization and casing burst pressure testing.
     </td>
